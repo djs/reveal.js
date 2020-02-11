@@ -43,6 +43,20 @@ section.has-light-background {
 	}
 }
 
+.reveal .header {
+	position: absolute;
+	top: 1em;
+	left: 1em;
+	font-size: 12px;
+  }
+
+.reveal .footer {
+	position: absolute;
+	bottom: 1em;
+	left: 1em;
+	font-size: 12px;
+  }
+
 
 // Theme template ------------------------------
 @import "../template/theme";
